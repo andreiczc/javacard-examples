@@ -1,0 +1,12 @@
+// Copyright (c) 1998, 2021, Oracle and/or its affiliates. All rights reserved.
+
+// Applet Selection APDU Script
+//
+// Package:     jcapps_hw.eu.ase.jcapps
+// Package AID: //aid/A0A1A2A3A4/00
+// Applet:      eu.ase.jcapps.HwApplet
+// Applet AID:  //aid/A0A1A2A3A4/01
+//
+
+// Select eu.ase.jcapps.HwApplet applet
+0x00 0xA4 0x04 0x00 0x06 0xA0 0xA1 0xA2 0xA3 0xA4 0x01 0x7F;

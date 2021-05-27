@@ -1,0 +1,12 @@
+Digest for ro/ase/ism/epayments/javacard/Header.cap		[SHA-256: 42f734d200da87d09b8a8ed2a17d82d1b138a37a4a5d83e4bcb9ad62b25b7b0d]
+Digest for ro/ase/ism/epayments/javacard/Applet.cap		[SHA-256: dcf34b954c526d3f930975fc072ab5e3a9789c862eba9c87f7dd9e424623bdd9]
+Digest for ro/ase/ism/epayments/javacard/RefLocation.cap		[SHA-256: d3c325399e0ec3405ac3b5fcf13d2c08e11297caa2efe75f76a8c23a2462bf67]
+Digest for ro/ase/ism/epayments/javacard/Class.cap		[SHA-256: c0d8b95a65f7a2e7d06a0385aeaf876ac54d4b8242454c928434081c833aef71]
+Digest for ro/ase/ism/epayments/javacard/StaticField.cap		[SHA-256: 5b8235c36a98cfa677287ff8a0a8aa896ddbac6b06a76bcd274da5c00c3b4605]
+Digest for ro/ase/ism/epayments/javacard/Descriptor.cap		[SHA-256: 46687ad78b3129da877c3d0a31772f39e36f88f529353e276368ab90cbbb874a]
+Digest for ro/ase/ism/epayments/javacard/Debug.cap		[SHA-256: 05d938ecdfbfabf2cb12dc0edb24d810795503fd9237d38a0bd0c4a0f1951fac]
+Digest for ro/ase/ism/epayments/javacard/Import.cap		[SHA-256: 108de88f984f11432e4e9f5830148882b1450a28aa1e0e0205d234e445cf3e2d]
+Digest for ro/ase/ism/epayments/javacard/Method.cap		[SHA-256: b7ad3042e668d059ebf665879646e61b7fd2c53f877eeb5f7ab7faa0817c0036]
+Digest for ro/ase/ism/epayments/javacard/Directory.cap		[SHA-256: 6f82a41d4ce65f53b2e0548923e007951242dc8684d5599a9d4774b8b539236f]
+Digest for ro/ase/ism/epayments/javacard/ConstantPool.cap		[SHA-256: 3153283bdc31330c39c836f62acb57b9a1c6c0403f78e67c6cb8747acc930169]
+Verification completed with 0 warnings and 0 errors.

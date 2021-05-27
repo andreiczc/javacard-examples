@@ -1,0 +1,12 @@
+Digest for ro/ase/ism/ewallet/javacard/Applet.cap		[SHA-256: da2a9a50473fb3dc67cae759402441e823400e45c8a53188a8b9372b71f31496]
+Digest for ro/ase/ism/ewallet/javacard/Descriptor.cap		[SHA-256: d65daab2d2928d8f290fb183cc32660542efa7abea77514c79d88bd7f9912b68]
+Digest for ro/ase/ism/ewallet/javacard/ConstantPool.cap		[SHA-256: 883fee18f685d21f551d11dd44e4fc03825cbdcccd22e4a6a6ca76666c8b1643]
+Digest for ro/ase/ism/ewallet/javacard/Header.cap		[SHA-256: 8f523ace8724cae5c3f76ee161faa8fa9d0d8e625a39b61c59432aba47df7792]
+Digest for ro/ase/ism/ewallet/javacard/Debug.cap		[SHA-256: 2d5e844edcfc2ac952636ed6b72303cf80f8d7b65d9107526285611629ca75f3]
+Digest for ro/ase/ism/ewallet/javacard/StaticField.cap		[SHA-256: dfa674e5054376038a087042b2391a246e736f8efd414af9c1794e733fc9b739]
+Digest for ro/ase/ism/ewallet/javacard/Import.cap		[SHA-256: 8cc3642a6d49023dc39aece31584cf15757e6bbcbc1e299514366eae84efce86]
+Digest for ro/ase/ism/ewallet/javacard/Method.cap		[SHA-256: a58c739d199f0f4af253e81f06d60e99f649bdef70ca352c36b1859b2dd52164]
+Digest for ro/ase/ism/ewallet/javacard/Directory.cap		[SHA-256: dd5b6b76208aa865f69f2aebb28f3cc6770465d7bd252acffc775e6414f1a67e]
+Digest for ro/ase/ism/ewallet/javacard/Class.cap		[SHA-256: 01d1a4db7a872370386e7a336c23fd0e1471eb2eb4f95c96eb8ba15e6f57ae57]
+Digest for ro/ase/ism/ewallet/javacard/RefLocation.cap		[SHA-256: 8b1c7bc2a65e71f41daa06af0a123c903266a1c8f273c77030b6e018c95d1098]
+Verification completed with 0 warnings and 0 errors.
