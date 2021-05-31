@@ -103,9 +103,8 @@ public class HwApplet extends Applet {
 
                 // check for line endings
                 if (buffer[14] == paddingAmount) {
-                    for (short idx = 15; idx > 15 - paddingAmount; --idx) {
-                        buffer[idx] = 0x00;
-                    }
+                    apdu.setOutgoingAndSend((short) 0, (short) (16 - paddingAmount));
+                    return;
                 }
             }
         }

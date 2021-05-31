@@ -115,16 +115,15 @@ public class JavaCardSimulator {
             commandArray[idx] = ciphertext[(noSteps * 16) + idx - 5];
         }
         tempBuffer = simulator.transmitCommand(commandArray);
-        System.arraycopy(tempBuffer, 0, plaintext, noSteps * 16, 16);
 
-        // check if it is has any empty bytes
-        for (var i = plaintext.length - 1; i > 0; --i) {
-            if (plaintext[i] != 0x00) {
-                if (i == plaintext.length - 1) return plaintext;
-                else return Arrays.copyOf(plaintext, i + 1);
-            }
+        final var padAmount = 16 - (tempBuffer.length - 2);
+
+        System.arraycopy(tempBuffer, 0, plaintext, noSteps * 16, tempBuffer.length - 2);
+
+        if (padAmount != 0) {
+            return Arrays.copyOf(plaintext, plaintext.length - padAmount);
+        } else {
+            return plaintext;
         }
-
-        return plaintext;
     }
 }
